@@ -1,0 +1,9 @@
+C:\Users\DuHodges\Documents\Visual Studio 2012\Projects\SalesLoftAutomation\SalesLoftTest\obj\Debug\SalesLoftTest.csprojResolveAssemblyReference.cache
+C:\Users\DuHodges\Documents\Visual Studio 2012\Projects\SalesLoftAutomation\SalesLoftTest\bin\Debug\SalesLoftTest.dll
+C:\Users\DuHodges\Documents\Visual Studio 2012\Projects\SalesLoftAutomation\SalesLoftTest\bin\Debug\SalesLoftTest.pdb
+C:\Users\DuHodges\Documents\Visual Studio 2012\Projects\SalesLoftAutomation\SalesLoftTest\bin\Debug\SalesLoftAutomation.dll
+C:\Users\DuHodges\Documents\Visual Studio 2012\Projects\SalesLoftAutomation\SalesLoftTest\bin\Debug\WebDriver.dll
+C:\Users\DuHodges\Documents\Visual Studio 2012\Projects\SalesLoftAutomation\SalesLoftTest\bin\Debug\SalesLoftAutomation.pdb
+C:\Users\DuHodges\Documents\Visual Studio 2012\Projects\SalesLoftAutomation\SalesLoftTest\bin\Debug\WebDriver.xml
+C:\Users\DuHodges\Documents\Visual Studio 2012\Projects\SalesLoftAutomation\SalesLoftTest\obj\Debug\SalesLoftTest.dll
+C:\Users\DuHodges\Documents\Visual Studio 2012\Projects\SalesLoftAutomation\SalesLoftTest\obj\Debug\SalesLoftTest.pdb
